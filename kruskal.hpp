@@ -64,7 +64,7 @@ int kruskal(int N, int M)
 
 	for (int i = 0; i < M; i++)
 	{
-		edge = edgelist[0];
+		edge = edgelist[i];
 
 		if (not uf.is_in_same_set(edge.second.first, edge.second.second))
 		{
