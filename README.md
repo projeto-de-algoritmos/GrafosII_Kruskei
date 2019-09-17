@@ -1,4 +1,4 @@
-# 
+# Kruskei
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos<br>
@@ -16,7 +16,7 @@ Soluções para problemas usando o algoritmo de Kruskal
 As soluções foram compiladas usando C++17
 
 ## Uso 
-
+Compile com o `g++` utilizando a flag `std=c++17`, no caso dos exercícios do URI, existem algumas entradas e saídas de exemplo
 
 ## Outros 
 
